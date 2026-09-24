@@ -9,7 +9,7 @@
 <h3 align="center">Computer Science Undergraduate • Full Stack Developer • AI/ML & IoT Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sarthaks-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Sarthaks-dev&label=Profile%20Views&color=0e75b0&style=flat" alt="Profile Views"/>
 </p>
 
 👨‍💻 About Me
@@ -107,11 +107,6 @@ IoT & Embedded
 </p>
 
 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarthaks-dev&show_icons=true&locale=en&theme=tokyonight&hide_border=true" height="180" alt="Sarthak's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthaks-dev&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Sarthak's Top Languages"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Sarthaks-dev&theme=tokyonight&hide_border=true" height="180" alt="Sarthak's GitHub Streak"/>
