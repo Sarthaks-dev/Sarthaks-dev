@@ -3,11 +3,6 @@
 <img src="./assets/profile-banner.png" alt="Welcome to Sarthak's GitHub Profile" width="100%"/>
 
 </div>
-<div align="center">
-
-<img src="./assets/profile-banner.png" alt="Welcome to Sarthak's GitHub Profile" width="100%"/>
-
-</div>
 
 <h1 align="center">Hi 👋, I'm Sarthak Suman Mishra</h1>
 
