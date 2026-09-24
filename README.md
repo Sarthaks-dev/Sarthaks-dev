@@ -89,20 +89,23 @@ IoT & Embedded
 
 🚀 Participated in Smart India Hackathon
 
-🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/sarthaksm" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="32" height="32"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/sarthakhere_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="32" height="32"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Sarthaks-dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" width="32" height="32"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:sarthakmshr12@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Gmail" width="32" height="32"/>
   </a>
 </p>
 
