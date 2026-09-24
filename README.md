@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="./assets/github-profile-visual.png" alt="Sarthak Suman Mishra - GitHub Profile" width="100%"/>
+<img src="./assets/profile-banner.png" alt="Welcome to Sarthak's GitHub Profile" width="100%"/>
 
 </div>
 
 <h1 align="center">Hi 👋, I'm Sarthak Suman Mishra</h1>
 
-<p align="center">
-  <b>Computer Science Undergraduate • Full Stack Developer • AI/ML & IoT Enthusiast</b>
-</p>
+<h3 align="center">Computer Science Undergraduate • Full Stack Developer • AI/ML & IoT Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sarthaks-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -34,61 +32,53 @@ Computer Science undergraduate at KIIT University with hands-on experience build
 
 📫 Reach me at sarthakmshr12@gmail.com
 
-🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/Sarthaks-dev">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sarthaks-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Sarthak's GitHub Trophies"/>
-  </a>
-</p>
-
 🛠️ Tech Stack
 
 Languages
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42" alt="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
 </p>
 
 Web & Backend
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42" height="42" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42" height="42" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" height="42" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" height="42" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="42" height="42" alt="Vite"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="40" height="40" alt="Vite"/>
 </p>
 
 AI / Machine Learning
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42" height="42" alt="Pandas"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="42" height="42" alt="NumPy"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="42" height="42" alt="Scikit-learn"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="42" height="42" alt="PyTorch"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch"/>
 </p>
 
 Cloud, Database & Tools
 
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="42" height="42" alt="Firebase"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="42" height="42" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42" height="42" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="42" height="42" alt="Docker"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="42" height="42" alt="Figma"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
 </p>
 
 IoT & Embedded
 
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="42" height="42" alt="Arduino"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" alt="Linux"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
 </p>
 
 🏆 Achievements
@@ -137,11 +127,7 @@ IoT & Embedded
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sarthaks-dev&theme=tokyonight" width="280" alt="Most Commit Language"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sarthaks-dev&theme=tokyonight" width="280" alt="Repositories Per Language"/>
 
-</a>
-
 <br/>
-
-<a href="https://github.com/Sarthaks-dev">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sarthaks-dev&theme=tokyonight&utcOffset=5.5" width="280" alt="Productive Time"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarthaks-dev&theme=tokyonight" width="580" alt="GitHub Profile Details"/>
@@ -154,6 +140,4 @@ IoT & Embedded
   <i>Building • Learning • Debugging • Repeating 🚀</i>
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" alt="Profile Footer"/>
-</div>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" alt="Profile Footer"/>
