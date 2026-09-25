@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=Sarthaks-dev&label=Profile%20Views&color=0e75b0&style=flat" alt="Profile Views"/>
 </p>
 
-👨‍💻 About Me
+##👨‍💻 About Me
 
 Computer Science undergraduate at KIIT University with hands-on experience building web applications, AI/ML solutions, and IoT systems.
 
@@ -32,7 +32,7 @@ Computer Science undergraduate at KIIT University with hands-on experience build
 
 📫 Reach me at sarthakmshr12@gmail.com
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 
 Languages
 
@@ -109,13 +109,13 @@ IoT & Embedded
   </a>
 </p>
 
-📊 GitHub Stats
+##📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Sarthaks-dev&theme=tokyonight&hide_border=true" height="180" alt="Sarthak's GitHub Streak"/>
 </p>
 
-📈 Statistics
+##📈 Statistics
 
 <div align="center">
 
