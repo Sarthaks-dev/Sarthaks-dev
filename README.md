@@ -81,7 +81,7 @@ IoT & Embedded
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
 </p>
 
-🏆 Achievements
+## 🏆 Achievements
 
 🥇 1st Place – Project Expo on Cyber Physics & Industrial IoT
 
