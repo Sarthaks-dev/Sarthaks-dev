@@ -115,27 +115,22 @@ IoT & Embedded
   <img src="https://streak-stats.demolab.com/?user=Sarthaks-dev&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata" height="180" alt="Sarthak's GitHub Streak"/>
 </p>
 
-## 📈 Statistics
-
-<div align="center">
-
-<a href="https://github.com/Sarthaks-dev">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sarthaks-dev&theme=tokyonight" width="280" alt="GitHub Statistics"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sarthaks-dev&theme=tokyonight" width="280" alt="Most Commit Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sarthaks-dev&theme=tokyonight" width="280" alt="Repositories Per Language"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sarthaks-dev&theme=tokyonight&utcOffset=5.5" width="280" alt="Productive Time"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarthaks-dev&theme=tokyonight" width="580" alt="GitHub Profile Details"/>
-
-</a>
-
-</div>
+## 📊 GitHub Statistics
 
 <p align="center">
-  <i>Building • Learning • Debugging • Repeating 🚀</i>
-</p>
+  <a href="https://github.com/Sarthaks-dev">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Sarthaks-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+      height="180"
+      alt="Sarthak's GitHub Statistics"
+    />
+  </a>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" alt="Profile Footer"/>
+  <a href="https://github.com/Sarthaks-dev">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthaks-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+      height="180"
+      alt="Sarthak's Top Languages"
+    />
+  </a>
+</p>
