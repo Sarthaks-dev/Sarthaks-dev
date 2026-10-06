@@ -112,7 +112,7 @@ IoT & Embedded
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sarthaks-dev&theme=tokyonight&hide_border=true" height="180" alt="Sarthak's GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Sarthaks-dev&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata" height="180" alt="Sarthak's GitHub Streak"/>
 </p>
 
 ## 📈 Statistics
